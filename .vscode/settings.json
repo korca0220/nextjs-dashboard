@@ -1,9 +1,0 @@
-{
-  "css.lint.unknownAtRules": "ignore",
-  "editor.formatOnSave": true,
-  "prettier.javascriptEnable": ["javascript", "javascriptreact"],
-  "editor.defaultFormatter": "esbenp.prettier-vscode",
-  "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
-}
